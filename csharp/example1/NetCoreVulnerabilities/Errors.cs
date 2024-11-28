@@ -25,5 +25,10 @@ namespace NetCoreVulnerabilities
         {
             var neverUsedVar2 = "";
         }
+        
+        public void NotUsedVar3()
+        {
+            var neverUsedVar3 = "";
+        }
     }
 }
